@@ -1,5 +1,5 @@
 exps/
 datasets/
 .vscode/
-*.png
-*.pth.tar
+/*.png
+/*.pth.tar
